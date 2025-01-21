@@ -19,3 +19,5 @@ I'm always open to collaborating on security research, open-source projects, or 
 
 ---
 _**"幻想着自由的生活,如夏花般绚烂的诱惑"**_
+
+笑的要死上面是AI生成的，看起来好装逼啊
