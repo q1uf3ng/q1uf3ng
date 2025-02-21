@@ -1,9 +1,9 @@
-# 👋 Hi, I'm q1uf3ng!  
+#  Hi, I'm q1uf3ng!  
 
-🚀 Security Researcher | Developer | Learner | feiwu | ctfer
+Security Researcher | Developer | 废物! | ctfer
 
 ## 🛡️ About Me  
-- 🎯 Member of **HashRun Security Team**  
+- 🎯 Member of **V&N Team**  
 - 🔍 Passionate about cybersecurity, vulnerability research, and system internals  
 
 ## 🌟 What I Do  
@@ -16,7 +16,7 @@
 
 ## 🌌 Let's Collaborate!  
 I'm always open to collaborating on security research, open-source projects, or learning opportunities. Feel free to reach out!  
-
+glna9n@163.com
 ---
 _**"幻想着自由的生活,如夏花般绚烂的诱惑"**_
 
