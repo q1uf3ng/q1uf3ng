@@ -3,7 +3,7 @@
 Security Researcher | Developer | 废物! | ctfer
 
 ## 🛡️ About Me  
-- 🎯 Member of **V&N Team**  
+- 🎯 Member of **W&M Team**  
 - 🔍 Passionate about cybersecurity, vulnerability research, and system internals  
 
 ## 🌟 What I Do  
