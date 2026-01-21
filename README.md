@@ -1,6 +1,6 @@
 #  Hi, I'm q1uf3ng!  
 
-Security Researcher | Developer | 废物! | ctfer
+Security Researcher&ctfer
 
 ## 🛡️ About Me  
 - 🎯 Member of **W&M Team**  
