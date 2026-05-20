@@ -9,7 +9,8 @@ Member of **W&M Team**
 ## 🌌 Let's Collaborate!  
 I'm always open to collaborating on security research, open-source projects, or learning opportunities. Feel free to reach out!  
 
-glna9n@163.com
+q1uf3ng@proton.me
+
 https://x.com/q1uf3ng
 ---
 _**"幻想着自由的生活,如夏花般绚烂的诱惑"**_
@@ -18,6 +19,9 @@ cve:
 CVE-2026-39987
 CVE-2026-44656
 
+CVE-2026-47137
+CVE-2026-47209
+CVE-2026-47135
 CVE-2026-28505
 CVE-2026-27905
 CVE-2026-26286
