@@ -1,13 +1,10 @@
-#  Hi, I'm q1uf3ng!  
+#  Hi, I'm q1uf3ng!（秋风）
 
-Security Researcher&ctfer
+Security Researcher & ctfer & Bug Bounty Hunter
 
 Member of **W&M Team**  
 
 **公众号**: [秋风的安全之路](#)
-
-## 🌌 Let's Collaborate!  
-I'm always open to collaborating on security research, open-source projects, or learning opportunities. Feel free to reach out!  
 
 q1uf3ng@proton.me
 
